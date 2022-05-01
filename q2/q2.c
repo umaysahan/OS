@@ -75,23 +75,5 @@ int main ( int argc, char* argv[])
 	
 	printf("The minimum value is %d \n",minimum);
 	printf("The maximum value is %d \n",maximum);
-	printf("The average value is %f \n",average);
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	printf("The average value is %f \n",average);	
 }
